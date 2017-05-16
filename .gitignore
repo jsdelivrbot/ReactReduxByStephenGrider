@@ -1,0 +1,9 @@
+/node_modules
+/src - upto just before chart inclusion
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
